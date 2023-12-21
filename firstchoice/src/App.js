@@ -15,7 +15,6 @@ function App() {
     <nav className="navbar text-white bg-info">
     <Link to="/login" className="nav-link">Login</Link>
     <Link to="/register" className="nav-link">Register</Link>
-    <Link to="/updatepassword" className="nav-link">Forget Password?</Link>
     </nav>
 
      <Routes>
